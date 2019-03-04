@@ -95,9 +95,13 @@ The buildtak that came with the printer will go bad quick, so make sure to buy s
 ## Printable upgrades:
 
 [Bed Clips](https://www.thingiverse.com/thing:2078581) These are nice they help keep the bed in place. Make sure to print these out of ABS or PETG as PLA will melt on the heated bed.
+
 [Top Caps](https://www.thingiverse.com/thing:1969059) These help keep the dust and debris away from the linear rails.
+
 [Bottom Corner Covers](https://www.thingiverse.com/thing:2288746) These do the same for the motors.
+
 [Tennis Ball Feet](https://www.thingiverse.com/thing:2519593) These help dampen the vibration and noise. I'd print these somewhere between 95-99% size to ensure a snug fit with the tennis ball. You can also just glue the ball in the place.
+
 [Fan Shroud](https://www.thingiverse.com/thing:2451652) Helps with print quality.
 
 
