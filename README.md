@@ -4,7 +4,7 @@ These docs are a walkthrough on how I step up my Anycubic Kossel Linear Plus.
 
 # Getting Started:
 
-First you need to build the printer from the kit. You shouldn't have any problems here, the instructions are written in decent English considering the Chinese manufacturer. 
+First you need to build the printer from the kit.
 
 ### First things to do right after building:
 
